@@ -1,3 +1,30 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
 
+.location{
+
+  h3{
+    text-align: right;
+  }
+
+  p{
+    text-align: right;
+    padding: 5px;
+  }
+
+  iframe{
+    max-width: 100%;
+  }
+}
+
+.page-heading {
+  img{
+    max-width: 80%;
+  }
+}
+
+.date {
+  padding-bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
